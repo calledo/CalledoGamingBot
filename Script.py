@@ -17,7 +17,7 @@ Sorry  bro,..{search} No Movie/Series Related to the Given Word Was Found 🥺
 
     SOURCE_TXT = """<b>NOTE:</b>
 - Calledo Bot is a open source project. 
-- Source - https://github.com/calledo/CalledoGamingBot
+- Source - https://t.Me/Cgmoviehub 
 
 <b>DEVS:</b>
 - <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
@@ -45,7 +45,7 @@ Sorry  bro,..{search} No Movie/Series Related to the Given Word Was Found 🥺
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/calledobotupdates)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
